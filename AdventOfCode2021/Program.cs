@@ -6,7 +6,7 @@ namespace AdventOfCode2021
     {
         static void Main(string[] args)
         {
-            var result = SolveChallenge<Int32, Int32>(new SonarSweep());
+            var result = SolveChallenge<Int32, Int32>(new Dive());
 
             String firstResult = "First Result: " + result.Item1;
             String secondResult = "SecondResult: " + result.Item2;           

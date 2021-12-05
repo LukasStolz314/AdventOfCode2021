@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="BinaryDiagnostic\BinaryDiagnostic.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Dive\Dive.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

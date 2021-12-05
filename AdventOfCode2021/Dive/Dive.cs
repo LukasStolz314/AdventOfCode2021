@@ -4,6 +4,8 @@ using System.Linq;
 
 namespace AdventOfCode2021
 {
+    //Challenge 2
+
     internal class Dive : IChallenge<Int32, Int32>
     {
         String path = "./Dive/Dive.txt";

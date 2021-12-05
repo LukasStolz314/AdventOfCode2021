@@ -5,6 +5,7 @@ using System.Linq;
 namespace AdventOfCode2021
 {
     //Challenge 1
+
     internal class SonarSweep : IChallenge<Int32, Int32>
     {
         String path = "./SonarSweep/SonarSweep.txt";

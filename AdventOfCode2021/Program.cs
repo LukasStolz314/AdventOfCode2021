@@ -6,7 +6,7 @@ namespace AdventOfCode2021
     {
         static void Main(string[] args)
         {
-            var result = SolveChallenge<Int32, Int32>(new GiantSquid());
+            var result = SolveChallenge<Int32, Int32>(new HydrothermalVenture());
 
             String firstResult = "First Result: " + result.Item1;
             String secondResult = "SecondResult: " + result.Item2;           
